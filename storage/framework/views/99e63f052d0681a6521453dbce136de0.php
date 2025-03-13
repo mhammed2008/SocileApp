@@ -1,0 +1,2 @@
+<a <?php echo e($attributes->merge(['class' => 'block w-full px-4 py-2 text-start text-sm leading-5 text-white hover:bg-gray-800 focus:outline-none focus:bg-gray-800 transition duration-150 ease-in-out'])); ?>><?php echo e($slot); ?></a>
+<?php /**PATH C:\xampp\htdocs\youtube\resources\views/components/dropdown-link.blade.php ENDPATH**/ ?>
